@@ -9,9 +9,9 @@
     <div id="navbar">
         <img src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg" alt="logo" id="logo">
         <ul class="navlinks">
-            <li class="navlink"><a href="" class="navlink-link" id="">1</a></li>
-            <li class="navlink"><a href="" class="navlink-link" id="">2</a></li>
-            <li class="navlink"><a href="" class="navlink-link" id="">3</a></li>
+            <li class="navlink"><a href="#home" class="navlink-link active" id="">home</a></li>
+            <li class="navlink"><a href="#products" class="navlink-link" id="">products</a></li>
+            <li class="navlink"><a href="#contact" class="navlink-link" id="">contact</a></li>
         </ul>
     </div>
 </body>
