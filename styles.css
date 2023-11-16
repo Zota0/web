@@ -1,1 +1,16 @@
+#navbar {
+    max-height: 20dvh;
+    overflow: scroll;
+    margin-bottom: 100px;
+    flex: none;
+    margin: auto;
+    width: 100%;
+}
+img {
+    width: 50%;
+    
+}
 
+.navlinks {
+    width: 50%;
+}
